@@ -60,4 +60,15 @@ GitHub: https://github.com/navee-d18
 
 ---
 
+## 📈 GitHub Stats
+
+![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=navee-d18\&show_icons=true\&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=navee-d18\&theme=tokyonight)](https://git.io/streak-stats)
+
+
+---
+
 ⭐ Always learning and building new things in web development.
