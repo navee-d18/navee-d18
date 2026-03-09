@@ -1,89 +1,63 @@
-# Hi 👋 I'm Mohammed Naveed
+# Hi, I'm Mohammed Naveed 👋
 
-💻 Backend Developer | MERN Stack Learner
-🚀 Passionate about building real-world web applications
+💻 Full Stack Web Development Learner
+🚀 Currently building projects using Node.js, Express, MongoDB, and EJS.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 🌱 Currently learning **Node.js, Express.js, MongoDB**
-* 🏗 Building backend projects using **MERN Stack**
-* 📚 Planning to start learning **Data Structures & Algorithms (DSA)** to improve problem solving
-* 🔭 Currently working on **Wanderlust Airbnb Project**
-* ⚡ Always learning new technologies and improving my development skills
+* 🌱 Currently learning **Full Stack Web Development**
+* 🧠 Practicing **Backend Development with Node.js & Express**
+* 🛠 Building projects like **Airbnb-style Wanderlust project**
+* 📚 Learning databases like **MongoDB and SQL**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Frontend
 
-* JavaScript
-* SQL
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
-**Backend**
+### Backend
 
-* Node.js
-* Express.js
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="40"/>
+</p>
 
-**Database**
+### Databases
 
-* MongoDB
-* MySQL
-
-**Tools**
-
-* Git
-* GitHub
-* EJS
-* VS Code
-
----
-
-## 📂 My Projects
-
-### 🗄 SQL User CRUD Project
-
-A CRUD application built using **SQL and Node.js** to manage users with database operations.
-
-### 🏡 Wanderlust Airbnb Project
-
-A full-stack Airbnb-inspired project where users can create, view, and manage listings.
-
-### 💬 Mongo Express Chat App
-
-A chat application using **MongoDB + Express + EJS** implementing full CRUD functionality.
-
-### 🌐 REST API Project
-
-A backend API project implementing RESTful routes using **Node.js and Express**.
-
-### 🎮 Simon Says Game
-
-A fun interactive browser game built using **JavaScript, HTML, and CSS**.
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Projects
+
+* 🏡 **Wanderlust (Airbnb-style project)**
+  Built using **Node.js, Express, MongoDB, and EJS**
+
+---
+
+## 📈 GitHub Stats
 
 ![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=navee-d18\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## 🔗 Connect With Me
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=navee-d18\&theme=tokyonight)
-
----
-
-## 🎯 Future Goals
-
-* Master **MERN Stack Development**
-* Learn **Data Structures & Algorithms (DSA)**
-* Build more **real-world full stack projects**
-* Contribute to **Open Source**
+GitHub: https://github.com/navee-d18
 
 ---
 
-⭐ Always learning, always building.
+⭐ Always learning and building new things in web development.
