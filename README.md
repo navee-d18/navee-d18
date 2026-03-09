@@ -43,8 +43,40 @@
 
 ## 📌 Current Projects
 
-* 🏡 **Wanderlust (Airbnb-style project)**
-  Built using **Node.js, Express, MongoDB, and EJS**
+### 🏡 Wanderlust – Airbnb Inspired Web Application
+
+A full-stack property listing web application inspired by Airbnb.
+
+**Tech Stack:**
+Node.js • Express.js • MongoDB • EJS • Bootstrap
+
+**Features:**
+
+* Create, edit, update, and delete listings (CRUD)
+* Responsive Navbar and Footer
+* Layout system using **EJS-Mate**
+* Styled pages using **Bootstrap**
+
+🔗 Repository:
+https://github.com/navee-d18/Wanderlust-Airbnb-project
+
+---
+
+## 📚 Other Projects
+
+### 🟢 Simon Game
+
+A browser-based memory game where players repeat an increasing sequence of colors.
+Built using **HTML, CSS, and JavaScript**.
+
+### 💬 Mini Chat App
+
+A simple chat application built using **Node.js, Express, and MongoDB** where users can create and manage chats.
+
+### 🔗 REST API CRUD Project
+
+A backend project demonstrating **RESTful routes and CRUD operations** using **Express.js**.
+
 
 ---
 
