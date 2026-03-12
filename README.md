@@ -79,7 +79,7 @@ A backend project demonstrating **RESTful routes and CRUD operations** using **E
 
 ### Backend practice
 
-Did some basic backend questions.
+Did some basic backend questions like **Node** , **Express** , **Ejs**.
 
 ---
 
