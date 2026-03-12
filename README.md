@@ -81,11 +81,6 @@ A backend project demonstrating **RESTful routes and CRUD operations** using **E
 
 Did some basic backend questions like **Node** , **Express** , **Ejs**.
 
----
-
-## 📈 GitHub Stats
-
-![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=navee-d18\&show_icons=true\&theme=tokyonight)
 
 ---
 
