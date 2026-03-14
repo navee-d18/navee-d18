@@ -56,6 +56,7 @@ Node.js • Express.js • MongoDB • EJS • Bootstrap
 * Responsive Navbar and Footer
 * Layout system using **EJS-Mate**
 * Styled pages using **Bootstrap**
+* Using **Middlewares**
 
 🔗 Repository:
 https://github.com/navee-d18/Wanderlust-Airbnb-project
