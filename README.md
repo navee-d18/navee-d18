@@ -10,7 +10,7 @@
 * 🌱 Currently learning **Full Stack Web Development**
 * 🧠 Practicing **Backend Development with Node.js & Express**
 * 🛠 Building projects like **Airbnb-style Wanderlust project**
-* 📚 Learning databases like **MongoDB and SQL**
+* 📚 Learning databases like **MongoDB and SQL**.
 
 ---
 
