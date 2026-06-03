@@ -102,4 +102,4 @@ GitHub: https://github.com/navee-d18
 
 ---
 
-⭐ Always learning and building new things in web development.
+• Always learning and building new things in web development.
