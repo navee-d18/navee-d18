@@ -2,6 +2,7 @@
 
 💻 Full Stack Developer | Building Real World Software Products
 🚀 Currently working on Edullent School Management Software and modern web applications.
+🚀 Currently building and enhancing multi-dashboard school management software with multilingual support (English, Hindi, Urdu, and Telugu).
 
 ---
 
@@ -16,35 +17,52 @@
 
 ---
 
-## 💼 Current Work
-
 ### 🎓 Edullent – School Management Software
 
 Currently contributing to **Edullent**, a comprehensive school management platform designed to simplify school administration, communication, attendance, academics, and parent engagement.
 
 ### 📱 Dashboards
 
-* 👑 Owner Dashboard
-* 🏫 Principal Dashboard
-* 👨‍🏫 Teacher Dashboard
-* 👨‍👩‍👧 Parent Dashboard
-* 🧸 Pre-Primary Teacher Dashboard
-* 👪 Pre-Primary Parent Dashboard
+- 👑 Owner Dashboard
+- 🏫 Principal Dashboard
+- 👨‍🏫 Teacher Dashboard
+- 👨‍👩‍👧 Parent Dashboard
+- 🧸 Pre-Primary Teacher Dashboard
+- 👪 Pre-Primary Parent Dashboard
+
+### 🚀 Current Contribution
+
+Currently working on:
+
+- 👑 Owner Dashboard
+- 🏫 Principal Dashboard
+- 👪 Pre-Primary Parent Dashboard
+
+### 🌍 Multi-Language Support
+
+Implementing translation support across the platform to improve accessibility for users.
+
+Supported Languages:
+
+- 🇬🇧 English
+- 🇮🇳 Hindi
+- 🇵🇰 Urdu
+- 🇮🇳 Telugu
 
 ### ✨ Key Features & Benefits
 
-* Student Management System
-* Attendance Tracking
-* Fee Management
-* Academic Performance Monitoring
-* Parent-Teacher Communication
-* Role-Based Access Control
-* School Administration Automation
-* Centralized Data Management
-* Multi-Dashboard Architecture
-* Secure Authentication & Authorization
-* User-Friendly Interface
-* Real-Time Information Access
+- Student Management System
+- Attendance Tracking
+- Fee Management
+- Academic Performance Monitoring
+- Parent-Teacher Communication
+- Role-Based Access Control
+- School Administration Automation
+- Centralized Data Management
+- Multi-Dashboard Architecture
+- Secure Authentication & Authorization
+- Real-Time Information Access
+- Multi-Language Support
 
 ---
 
