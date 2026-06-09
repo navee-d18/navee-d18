@@ -165,6 +165,12 @@ GitHub: https://github.com/navee-d18
 
 ---
 
+## 📊 GitHub Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navee-d18&theme=tokyonight)
+
+---
+
 ⭐ Always learning, building, and contributing to impactful software products.
 
 🚀 Current Focus: Edullent School Management Software, Backend Development, and Scalable Full Stack Applications.
