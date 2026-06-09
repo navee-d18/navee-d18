@@ -147,21 +147,9 @@ GitHub: https://github.com/navee-d18
 
 ---
 
-## 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navee-d18&show_icons=true&theme=tokyonight"/>
-
----
-
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=navee-d18\&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 📊 Most Used Languages
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navee-d18&layout=compact&theme=tokyonight"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=navee-d18&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
@@ -169,6 +157,9 @@ GitHub: https://github.com/navee-d18
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navee-d18&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navee-d18&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navee-d18&theme=tokyonight)
 ---
 
 ⭐ Always learning, building, and contributing to impactful software products.
