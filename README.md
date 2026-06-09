@@ -149,7 +149,7 @@ GitHub: https://github.com/navee-d18
 
 ## 📈 GitHub Stats
 
-![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=navee-d18\&show_icons=true\&theme=tokyonight)
+![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=navee-d18&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -161,7 +161,7 @@ GitHub: https://github.com/navee-d18
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navee-d18\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navee-d18&layout=compact&theme=tokyonight)
 
 ---
 
