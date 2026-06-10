@@ -167,7 +167,9 @@ GitHub: https://github.com/navee-d18
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=navee-d18&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=navee-d18&theme=tokyonight" />
+</p>
 
 ---
 
