@@ -1,126 +1,138 @@
 # Hi, I'm Mohammed Naveed 👋
 
-💻 Full Stack Developer | Building Real World Software Products
-🚀 Currently working on Edullent School Management Software and modern web applications.
-🚀 Currently building and enhancing multi-dashboard school management software with multilingual support (English, Hindi, Urdu, and Telugu).
+💻 Full Stack Developer | Building Real-World Software Products
+
+🚀 Currently contributing to Edullent School Management Software and modern web applications.
+
+🌍 Working on multilingual applications with support for English, Hindi, Urdu, and Telugu.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 🌱 Continuously learning Full Stack Web Development
 * 🧠 Passionate about Backend Development & System Design
 * 🛠 Building scalable web applications and software products
-* 🎓 Contributing to Edullent School Management Software
-* 📚 Exploring modern web technologies and databases
-* 🚀 Always learning by building real-world projects
+* 🚀 Contributing to Edullent School Management Software
+* ⚛️ Working with React.js, Node.js, Express.js, Firebase, MongoDB, and MySQL
+* 📚 Exploring modern web technologies, databases, and software architecture
+* 🔥 Always learning by building real-world projects
 
 ---
 
-### 🎓 Edullent – School Management Software
+# 🎓 Edullent – School Management Software
 
 Currently contributing to **Edullent**, a comprehensive school management platform designed to simplify school administration, communication, attendance, academics, and parent engagement.
 
-### 📱 Dashboards
+## 📱 Dashboards
 
-- 👑 Owner Dashboard
-- 🏫 Principal Dashboard
-- 👨‍🏫 Teacher Dashboard
-- 👨‍👩‍👧 Parent Dashboard
-- 🧸 Pre-Primary Teacher Dashboard
-- 👪 Pre-Primary Parent Dashboard
+* 👑 Owner Dashboard
+* 🏫 Principal Dashboard
+* 👨‍🏫 Teacher Dashboard
+* 👨‍👩‍👧 Parent Dashboard
+* 🧸 Pre-Primary Teacher Dashboard
+* 👪 Pre-Primary Parent Dashboard
 
-### 🚀 Current Contribution
+## 🚀 Current Contribution
 
-Currently working on:
+Currently working and enhancing all major dashboards:
 
-- 👑 Owner Dashboard
-- 🏫 Principal Dashboard
-- 👪 Pre-Primary Parent Dashboard
+* 👑 Owner Dashboard
+* 🏫 Principal Dashboard
+* 👨‍🏫 Teacher Dashboard
+* 👨‍👩‍👧 Parent Dashboard
+* 🧸 Pre-Primary Teacher Dashboard
+* 👪 Pre-Primary Parent Dashboard
 
-### 🌍 Multi-Language Support
+## 🌍 Multi-Language Support
 
-Implementing translation support across the platform to improve accessibility for users.
+Implementing translation support across the platform to improve accessibility and user experience.
 
-Supported Languages:
+### Supported Languages
 
-- 🇬🇧 English
-- 🇮🇳 Hindi
-- 🇵🇰 Urdu
-- 🇮🇳 Telugu
+* 🇬🇧 English
+* 🇮🇳 Hindi
+* 🇵🇰 Urdu
+* 🇮🇳 Telugu
 
-### ✨ Key Features & Benefits
+## ✨ Key Features & Benefits
 
-- Student Management System
-- Attendance Tracking
-- Fee Management
-- Academic Performance Monitoring
-- Parent-Teacher Communication
-- Role-Based Access Control
-- School Administration Automation
-- Centralized Data Management
-- Multi-Dashboard Architecture
-- Secure Authentication & Authorization
-- Real-Time Information Access
-- Multi-Language Support
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="40"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
+* Student Management System
+* Attendance Tracking
+* Fee Management
+* Academic Performance Monitoring
+* Parent-Teacher Communication
+* Role-Based Access Control
+* School Administration Automation
+* Centralized Data Management
+* Multi-Dashboard Architecture
+* Secure Authentication & Authorization
+* Real-Time Information Access
+* Multi-Language Support
 
 ---
 
-## 📌 Featured Project
+# 🛠 Tech Stack
 
-### 🏡 Wanderlust – Airbnb Inspired Web Application
+## Frontend
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+</p>
+
+## Backend
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="45"/>
+</p>
+
+## Databases & Cloud
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+</p>
+
+---
+
+# 📌 Featured Project
+
+## 🏡 Wanderlust – Airbnb Inspired Web Application
 
 A full-stack property listing web application inspired by Airbnb.
 
-**Tech Stack**
+### Tech Stack
 
 Node.js • Express.js • MongoDB • EJS • Bootstrap
 
-**Features**
+### Features
 
-* Create, Edit, Update and Delete Listings
-* Responsive Navbar and Footer
+* Create Listings
+* Edit Listings
+* Update Listings
+* Delete Listings
+* Responsive Navbar & Footer
 * EJS-Mate Layout System
 * Bootstrap UI
 * Middleware Integration
 * MongoDB Database Integration
 
-🔗 Repository
-https://github.com/navee-d18/Wanderlust-Airbnb-project
+### Repository
+
+🔗 https://github.com/navee-d18/Wanderlust-Airbnb-project
 
 ---
 
-## 📚 Other Projects
+# 📚 Other Projects
 
-### 🟢 Simon Game
+## 🟢 Simon Game
 
 A browser-based memory game where players repeat an increasing sequence of colors.
 
@@ -130,22 +142,28 @@ A browser-based memory game where players repeat an increasing sequence of color
 * CSS
 * JavaScript
 
-### 💬 Mini Chat App
+---
 
-A simple chat application built using Node.js, Express.js and MongoDB.
+## 💬 Mini Chat App
 
-**Features**
+A simple chat application built using Node.js, Express.js, and MongoDB.
+
+### Features
 
 * Create Chats
 * Edit Chats
 * Delete Chats
 * MongoDB Integration
 
-### 🔗 REST API CRUD Project
+---
+
+## 🔗 REST API CRUD Project
 
 Backend project demonstrating RESTful routes and CRUD operations using Express.js.
 
-### ⚙ Backend Practice
+---
+
+## ⚙ Backend Practice
 
 Practicing and building mini projects using:
 
@@ -153,34 +171,51 @@ Practicing and building mini projects using:
 * Express.js
 * EJS
 * MongoDB
+* Firebase
 * Authentication
 * Middleware
 * REST APIs
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
-GitHub: https://github.com/navee-d18
+### GitHub
+
+https://github.com/navee-d18
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=navee-d18&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 GitHub Profile Summary
+# 📊 GitHub Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navee-d18&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navee-d18\&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navee-d18&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navee-d18\&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navee-d18&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navee-d18\&theme=tokyonight)
+
+---
+
+# 🎯 Current Focus
+
+* 🎓 Edullent School Management Software
+* 🌍 Multi-Language Support Implementation
+* ⚛️ React.js Development
+* 🔥 Backend Development
+* ☁ Firebase Integration
+* 🗄 Database Design & Management
+* 🚀 Scalable Full Stack Applications
 
 ---
 
 ⭐ Always learning, building, and contributing to impactful software products.
 
-🚀 Current Focus: Edullent School Management Software, Backend Development, and Scalable Full Stack Applications.
+🚀 Building software that solves real-world problems.
