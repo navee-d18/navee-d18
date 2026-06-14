@@ -41,8 +41,8 @@ Currently working and enhancing all major dashboards:
 * 🏫 Principal Dashboard
 * 👨‍🏫 Teacher Dashboard
 * 👨‍👩‍👧 Parent Dashboard
-* 🧸 Pre-Primary Teacher Dashboard
 * 👪 Pre-Primary Parent Dashboard
+* 🧸 Pre-Primary Teacher Dashboard
 
 ## 🌍 Multi-Language Support
 
