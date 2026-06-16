@@ -16,7 +16,7 @@
 * 🚀 Contributing to Edullent School Management Software
 * ⚛️ Working with React.js, Node.js, Express.js, Firebase, MongoDB, and MySQL
 * 📚 Exploring modern web technologies, databases, and software architecture
-* 🔥 Always learning by building real-world projects
+* 🔥 Always learning by building real-world projects.
 
 ---
 
