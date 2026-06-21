@@ -50,11 +50,12 @@ Implementing translation support across the platform to improve accessibility an
 
 ### Supported Languages
 
-* 🇬🇧 English
-* 🇮🇳 Hindi
-* 🇵🇰 Urdu
-* 🇮🇳 Telugu
-
+* English
+* Hindi
+* Urdu
+* Telugu
+* Arabic 
+  
 ## ✨ Key Features & Benefits
 
 * Student Management System
