@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Naveed 👋
 
-💻 Full Stack Developer | Building Real-World Software Products
+💻 Full Stack Developer | Building Real-World Software Products.
 
 🚀 Currently contributing to Edullent School Management Software and modern web applications.
 
