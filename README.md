@@ -54,7 +54,7 @@ Implementing translation support across the platform to improve accessibility an
 * Hindi
 * Urdu
 * Telugu
-* Arabic 
+* Arabic and more......
   
 ## ✨ Key Features & Benefits
 
