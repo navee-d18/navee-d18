@@ -210,7 +210,7 @@ https://github.com/navee-d18
 * ⚛️ React.js Development
 * 🔥 Backend Development
 * ☁ Firebase Integration
-* 🗄 Database Design & Management
+* 🗄 Database Design & Management.
 * 🚀 Scalable Full Stack Applications.
 
 ---
