@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Naveed 👋
+# Hi, I'm Md Naveed 👋
 
 💻 Full Stack Developer | Building Real-World Software Products.
 
