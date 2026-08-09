@@ -10,7 +10,7 @@
 
 # 🚀 About Me
 
-* 🌱 Continuously learning Full Stack Web Development
+* 🌱 Continuously learning Full Stack Web Development.
 * 🧠 Passionate about Backend Development & System Design
 * 🛠 Building scalable web applications and software products
 * 🚀 Contributing to Edullent School Management Software
